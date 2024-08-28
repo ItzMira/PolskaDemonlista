@@ -121,6 +121,12 @@
             "link": "https://www.youtube.com/watch?v=e4xEUrYtNhE",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Borowik",
+            "link": "https://youtu.be/noDfx0DFHtU?si=t88qbGKV11BdA8_T",
+            "percent": 100,
+            "hz": 300
         }
     ]
 }
