@@ -1,1 +1,17 @@
-
+{
+    "id": 88233955,
+    "name": "DIRECTIONS",
+    "author": "ryli06",
+    "creators": ["ryli06","Nightning"],
+    "verifier": "SwordBx",
+    "verification": "https://www.youtube.com/watch?v=hg5f1I6Ryyk",
+    "percentToQualify": 45,
+    "password": "1534",
+    "records": [
+        {
+            "user": "Bedziu",
+            "link": "https://www.youtube.com/watch?v=hg5f1I6Ryyk",
+            "percent": 100,
+            "hz": 60
+        },
+}
