@@ -1,0 +1,24 @@
+{
+    "id": 96035641,
+    "name": "Scream Machine",
+    "author": "TMco",
+    "creators": ["TMco"],
+    "verifier": "WatchPiggy",
+    "verification": "https://youtu.be/u2OiecSrpPk",
+    "percentToQualify": 56,
+    "password": "103123",
+    "records": [
+        {
+            "user": "Hollin",
+            "link": "https://youtu.be/u2OiecSrpPk",
+            "percent": 100,
+            "hz": 240
+        },
+      {
+            "user": "Stryg",
+            "link": "https://youtu.be/NzcvJsgbNI4?si=gUaeY9OySGIak9v-",
+            "percent": 67,
+            "hz": 240
+        }
+    ]
+}
