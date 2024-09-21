@@ -21,16 +21,16 @@
             "hz": 480
         },
        {
+            "user": "karol1",
+            "link": "https://youtu.be/51dICTatmN4",
+            "percent": 100,
+            "hz": 240
+        },  
+     {
             "user": "fufam",
             "link": "https://youtu.be/U0j57VAAx4A",
             "percent": 83,
             "hz": 240
         },
-       {
-            "user": "karol1",
-            "link": "https://www.youtube.com/watch?v=vRC64ekzNw8",
-            "percent": 58,
-            "hz": 240
-        }
      ]
 }
