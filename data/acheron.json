@@ -1,0 +1,18 @@
+{
+    "id": 73667628,
+    "name": "Acheron",
+    "author": "ryamu",
+    "creators": ["Metalface221","Riot","Komp","GrenadeofTacos","icedcave","Cersia","LimeTime313","Endlevel","goob","AZuLer4","ewop","Deadlox","ryamu","silver"],
+    "verifier": "Zoink",
+    "verification": "https://www.youtube.com/watch?v=5fqciPrucTc",
+    "percentToQualify": 49,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Gokill",
+            "link": "https://www.youtube.com/watch?v=5fqciPrucTc",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
