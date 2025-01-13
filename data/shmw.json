@@ -14,13 +14,19 @@
             "percent": 100,
             "hz": 360
         },
-     {
-            "user": "L3m0nGD",
-            "link": "https://youtu.be/E4Gr3FvnsU0",
-            "percent": 92,
+        {
+            "user": "UnityHost",
+            "link": "https://www.youtube.com/watch?v=_pqjDb4AOJE",
+            "percent": 100,
             "hz": 240
         },
-    {
+        {
+            "user": "Lemon",
+            "link": "https://www.youtube.com/watch?v=abd3uTUNTGY",
+            "percent": 100,
+            "hz": 240
+        },
+        {
             "user": "MrPenguin",
             "link": "https://www.youtube.com/watch?v=JyQfiIWdWmA&t=21s",
             "percent": 82,
