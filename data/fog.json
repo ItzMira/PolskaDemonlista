@@ -20,22 +20,28 @@
             "percent": 100,
             "hz": 480
         },
-       {
+        {
             "user": "karol1",
             "link": "https://youtu.be/51dICTatmN4",
             "percent": 100,
             "hz": 240
         },  
-     {
+        {
             "user": "fufam",
             "link": "https://youtu.be/okQXtY2MDp4",
             "percent": 100,
             "hz": 240
         },
-     {
+        {
             "user": "Lemnik",
-            "link": "https://youtu.be/1ODxGcacaWo",
-            "percent": 66,
+            "link": "https://www.youtube.com/watch?v=4S50vi6fTSE",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "blobik",
+            "link": "https://www.youtube.com/watch?v=XaZi6iXgUY0",
+            "percent": 100,
             "hz": 240
         }
      ]
