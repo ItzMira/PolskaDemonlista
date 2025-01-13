@@ -37,6 +37,12 @@
             "link": "https://youtu.be/ABkGdo4ffVE",
             "percent": 100,
             "hz": 360
-        }      
+        },     
+        {
+            "user": "Nikoo",
+            "link": "https://www.youtube.com/watch?v=SeSEvRxB6jY",
+            "percent": 100,
+            "hz": 240
+        }
 ]
 }
