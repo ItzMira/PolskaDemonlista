@@ -13,6 +13,12 @@
             "link": "https://www.youtube.com/watch?v=nweqinQjBeY",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "rChamber",
+            "link": "https://www.youtube.com/watch?v=9i3g5DIcXlk",
+            "percent": 100,
+            "hz": 660
         }
     ]
 }
