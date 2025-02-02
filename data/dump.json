@@ -8,11 +8,17 @@
     "percentToQualify": 55,
     "password": "Free To Copy",
     "records": [
-      {
-        "user": "BlackBird552",
-        "link": "https://youtu.be/DTHDpnrUkGc?si=hYUBc20x5BhwORVA",
-        "percent": 100,
-        "hz": 360
+        {
+            "user": "BlackBird552",
+            "link": "https://youtu.be/DTHDpnrUkGc?si=hYUBc20x5BhwORVA",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "MrPenguin",
+            "link": "https://www.youtube.com/watch?v=7oTQ-IYl1H0",
+            "percent": 100,
+            "hz": 480
         }
     ]
 }
