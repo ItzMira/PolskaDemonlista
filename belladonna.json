@@ -1,0 +1,18 @@
+{
+    "id": 94969889,
+    "name": "Belladonna",
+    "author": "cherryteam",
+    "creators": ["Vernam","Itami"],
+    "verifier": "Exsii",
+    "verification": "https://m.youtube.com/watch?v=saHSgoU1JQQ&pp=ygUTQmVsbGFkb25uYSB2ZXJpZmllZA%3D%3D",
+    "percentToQualify": 70,
+    "password": "1441",
+    "records": [
+        {
+            "user": "MIxselPL",
+            "link": "https://m.youtube.com/watch?v=qWcjK4kg6T8&t=1332s",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
