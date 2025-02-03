@@ -1,0 +1,18 @@
+{
+    "id": 105593215,
+    "name": "ORDINARY",
+    "author": "vit12",
+    "creators": ["vit12","HugoLa","GustavoV3","RafaBirds"],
+    "verifier": "wPopoff",
+    "verification": "https://m.youtube.com/watch?v=4QiHP3jpGnk&pp=ygULT3JkaW5hcnkgZ2Q%3D",
+    "percentToQualify": 74,
+    "password": "Free_to_Copy",
+    "records": [
+        {
+            "user": "MIxselPL",
+            "link": "https://m.youtube.com/watch?v=tVhWV3fB5kA",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
