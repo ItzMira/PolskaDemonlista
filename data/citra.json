@@ -34,7 +34,7 @@
         },
         {
             "user": "bnuuy",
-            "link": "https://www.youtube.com/watch?v=CQdiv4qvDI8",
+            "link": "https://www.youtube.com/watch?v=CQdiv4qvDI8",https://www.youtube.com/watch?v=7qbS5z2CdQc
             "percent": 100,
             "hz": 360     
         },
@@ -43,6 +43,12 @@
             "link": "https://www.youtube.com/watch?v=lOFpgvMYF3w",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Lukrasz",
+            "link": "https://www.youtube.com/watch?v=7qbS5z2CdQc",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }
