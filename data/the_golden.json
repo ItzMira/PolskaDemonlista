@@ -33,16 +33,16 @@
             "hz": 240
         },
         {
-            "user": "igor",
-            "link": "https://youtu.be/Llkf9L9hNK4",
-            "percent": 51,
-            "hz": 240
-        },
-        {
             "user": "bartolini3",
             "link": "https://m.youtube.com/watch?v=u_WXWTSA-s4&pp=ygUKQmFydG9saW5pMw%3D%3D",
             "percent": 100
             "hz": 480
+        },
+        {
+            "user": "igor",
+            "link": "https://youtu.be/Llkf9L9hNK4",
+            "percent": 51,
+            "hz": 240
         }
      ]
 }
