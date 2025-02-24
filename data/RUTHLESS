@@ -1,0 +1,18 @@
+{
+    "id": 85612571 ,
+    "name": "RUTHLESS",
+    "author": "Surjaco",
+    "creators": [Viper, Arctarus, nCylix, Surjaco, Titoalper, Boii, BeClan, Destriv, Aranda, Vitrial, Bli, Motheye, lGenoxide, Roselyne],
+    "verifier": "vaen",
+    "verification": "https://www.youtube.com/watch?reload=9&v=YNLzRa_IEdM&ab_channel=Uka",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "UKMD1997",
+            "link": "https://www.youtube.com/watch?reload=9&v=YNLzRa_IEdM&ab_channel=Uka",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
