@@ -1,0 +1,18 @@
+{
+    "id": 52955167,
+    "name": "Deimos (EndLevel)",
+    "author": "EndLevel",
+    "creators": ["Endlevel","BoldStep","Straw","Zenith","sqrl","Metalface221","Hexhammer","TrueOm3ga","EternaswipVMAX","Jihn","Cypher","Kugelblitz","Splash","Eggnog"],
+    "verifier": "npesta",
+    "verification": "https://www.youtube.com/watch?v=4dD8cx7BB6Q",
+    "percentToQualify": 100,
+    "password": "789123",
+    "records": [
+        {
+            "user": "LanLiangator",
+            "link": "https://www.youtube.com/watch?v=4dD8cx7BB6Q",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
