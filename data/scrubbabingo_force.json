@@ -1,0 +1,18 @@
+{
+    "id": 111193316,
+    "name": "Scrubbabingo Force",
+    "author": "Akunakunn",
+    "creators": ["Akunakunn","Shubhy"],
+    "verifier": "Popsi",
+    "verification": "https://www.youtube.com/watch?v=59QJUP4jY28",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "LanLiangator",
+            "link": "https://www.youtube.com/watch?v=59QJUP4jY28",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
