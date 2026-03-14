@@ -13,6 +13,18 @@
             "link": "https://www.youtube.com/watch?v=N4IGcCvpay8",
             "percent": 100,
             "hz": 240
-        }
+        },
+        {
+            "user": "kropka",
+            "link": "https://www.youtube.com/watch?v=NxBSwSuYdSc",
+            "percent": 100,
+            "hz": 720
+        },
+        {
+            "user": "Gokill",
+            "link": "https://www.youtube.com/watch?v=U4Av3ZIM310",
+            "percent": 90,
+            "hz": 720
+        },
     ]
 }
