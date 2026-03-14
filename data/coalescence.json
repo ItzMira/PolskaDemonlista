@@ -1,0 +1,30 @@
+{
+    "id": 108708033,
+    "name": "Coalescence",
+    "author": "Amplitron",
+    "creators": ["Amplitron","SlayerKirb","notesxd","Pixll","Kaza"],
+    "verifier": "Amplitron",
+    "verification": "https://www.youtube.com/watch?v=JjoEd5neqQI",
+    "percentToQualify": 69,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "blobik",
+            "link": "https://www.youtube.com/watch?v=JjoEd5neqQI",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Lukrasz",
+            "link": "https://www.youtube.com/watch?v=dhX4XIp71fg",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "kropka",
+            "link": "https://www.youtube.com/watch?v=88p3-Y5Ke_E",
+            "percent": 100,
+            "hz": 480
+        }
+    ]
+}
