@@ -27,16 +27,58 @@
             "hz": 240
         },
         {
+            "user": "bugs0987",
+            "link": "https://www.youtube.com/watch?v=56knxdq780E",
+            "percent": 100,
+            "hz": 720
+        },
+        {
+            "user": "OreSpawnMaster3",
+            "link": "https://www.youtube.com/watch?v=8JgBb9Jxv9Q",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "kvvv",
+            "link": "https://www.youtube.com/watch?v=fD9D6Brye0Q",
+            "percent": 100,
+            "hz": 480
+        },
+        {
+            "user": "LanLiangator",
+            "link": "https://www.youtube.com/watch?v=EKYKEMavVso",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "GDRed",
+            "link": "https://www.youtube.com/watch?v=0TLCI1gG9eg",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "renzgmd",
+            "link": "https://www.youtube.com/watch?v=d8POHZ_VXrk",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Emzak",
+            "link": "https://www.youtube.com/watch?v=jMNZCmHwUi0",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "SuperBanjo",
+            "link": "https://www.youtube.com/watch?v=1fLCKxfU0HQ",
+            "percent": 100,
+            "hz": 240
+        },
+        {
             "user": "Doubley",
             "link": "https://youtu.be/pz0F9oIvjc4?si=uSEcE4JEnd22P1QF",
             "percent": 70,
             "hz": 720
-        },
-        {
-            "user": "renzgmd",
-            "link": "https://youtu.be/B4sm4JPu4EU?si=7_ULInkTEFc6sJwM",
-            "percent": 62,
-            "hz": 240
         }
     ]
 }
