@@ -1,0 +1,24 @@
+{
+    "id": 87665224,
+    "name": "KOCMOC",
+    "author": "cherryteam",
+    "creators": ["spk", "Synd", "Vinty", "Sauzzeth", "Bli", "Xatz", "kivvvi", "Deadlox", "Cauer", "Hantein", "REDACTED"],
+    "verifier": "Zoink",
+    "verification": "https://youtu.be/HuG2BXHb2v0?si=7AwxCMXGRNAr0k1H",
+    "percentToQualify": 73,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Komet01",
+            "link": "https://youtu.be/HuG2BXHb2v0?si=7AwxCMXGRNAr0k1H",
+            "percent": 100,
+            "hz": 240
+        },
+      {
+        "user": "kropka",
+        "link": "https://youtu.be/Rgv9LAdMB_0?si=I_7ptWxjwA6PQ6HE",
+        "percent": 100,
+        "hz": 720   
+        }
+    ]
+}
