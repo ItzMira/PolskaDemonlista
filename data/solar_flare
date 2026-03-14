@@ -1,0 +1,42 @@
+{
+    "id": 90390075,
+    "name": "Solar Flare",
+    "author": "Linear",
+    "creators": ["Linear","rynoxious"],
+    "verifier": "swiborg",
+    "verification": "https://www.youtube.com/watch?v=sAllFRV4WNs",
+    "percentToQualify": 69,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "dovv1n",
+            "link": "https://www.youtube.com/watch?v=sAllFRV4WNs",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Komet01",
+            "link": "https://www.youtube.com/watch?v=zuWXSI2YZjI",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Lanx",
+            "link": "https://www.youtube.com/watch?v=4EGomK0NKCE",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "kropka",
+            "link": "https://www.youtube.com/watch?v=D7YyL6RnNJs",
+            "percent": 100,
+            "hz": 480
+        },
+        {
+            "user": "Oveeer",
+            "link": "https://www.youtube.com/watch?v=CNBSZIC04sk",
+            "percent": 83,
+            "hz": 240
+        }
+    ]
+}
