@@ -19,6 +19,24 @@
             "link": "https://youtu.be/jRaZLZFPj6M?si=8yfKjsLx59-4UtQr",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Dramel [GD]",
+            "link": "https://www.youtube.com/watch?v=0HxJ6JFLT5E",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "ItzMimo",
+            "link": "https://www.youtube.com/watch?v=HVoq-ADr06M",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Ares",
+            "link": "https://www.youtube.com/watch?v=2amrhp6L7sw",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
