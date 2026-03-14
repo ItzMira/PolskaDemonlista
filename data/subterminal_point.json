@@ -1,0 +1,24 @@
+{
+    "id": 113599729,
+    "name": "Subterminal Point",
+    "author": "SyQual",
+    "creators": [SyQual],
+    "verifier": "PoCle",
+    "verification": "https://youtu.be/YPqV933qx-Y?si=H4CquaOlBb3NITjm",
+    "percentToQualify": 71,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Komet01",
+            "link": "https://youtu.be/YPqV933qx-Y?si=H4CquaOlBb3NITjm",
+            "percent": 100,
+            "hz": 240
+        },
+      {
+        "user": "dovv1n",
+        "link": "https://youtu.be/AyWvndn_XLg?si=M7LLsWE1597ss7wD",
+        "percent": 92,
+        "hz": 240
+        }
+    ]
+}
