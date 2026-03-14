@@ -15,11 +15,17 @@
             "percent": 100,
             "hz": 360
         },
-      {
+        {
             "user": "Mithrand",
             "link": "https://www.youtube.com/watch?v=09j04lV5zgA",
             "percent": 100,
             "hz": 330
+        },
+        {
+            "user": "kropka",
+            "link": "https://www.youtube.com/watch?v=3Rg5WLWQUX4",
+            "percent": 100,
+            "hz": 480
         }
     ]
 }
