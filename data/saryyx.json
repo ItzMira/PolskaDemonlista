@@ -1,0 +1,24 @@
+{
+    "id": 95998005,
+    "name": "SARYYX NEVER CLEAR",
+    "author": "artos",
+    "creators": ["Axxorz","Voltex","Realvet","Deadlox","spcreat","artos","Graded","Pla","Indra"],
+    "verifier": "skzyl",
+    "verification": "https://www.youtube.com/watch?v=hwodfXeyJbY",
+    "percentToQualify": 74,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Komet01",
+            "link": "https://www.youtube.com/watch?v=hwodfXeyJbY",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "dovv1n",
+            "link": "https://www.youtube.com/watch?v=f9qrF8PUp-M",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
