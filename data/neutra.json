@@ -13,6 +13,18 @@
             "link": "https://www.youtube.com/watch?v=MSDlJF9NJTk",
             "percent": 100,
             "hz": 240
-        }
+        },
+        {
+            "user": "BudgieParrot",
+            "link": "https://www.youtube.com/watch?v=6QxdC_B8f2I",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Lukrasz",
+            "link": "https://www.youtube.com/watch?v=FBGGQtvmi0c",
+            "percent": 100,
+            "hz": 120
+        } 
     ]
 }
