@@ -1,0 +1,36 @@
+{
+    "id": 90477539,
+    "name": "Saul Goodman",
+    "author": "Renn241",
+    "creators": ["Quacduc","Joojmiguel","loltad","DreamTide","Renn241","GhostVandalf","NukeIIX","MercuryDT"],
+    "verifier": "bloom",
+    "verification": "https://www.youtube.com/watch?v=r1oaH1px7bs",
+    "percentToQualify": 70,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Stryg",
+            "link": "https://www.youtube.com/watch?v=r1oaH1px7bs",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Komet01",
+            "link": "https://www.youtube.com/watch?v=2T8RbBo5Rdc",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "kropka",
+            "link": "https://www.youtube.com/watch?v=j1jeOulRF-I",
+            "percent": 100,
+            "hz": 480
+        },
+        {
+            "user": "Jarmusz",
+            "link": "https://www.youtube.com/watch?v=u0BQ8UrGd-o",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}
