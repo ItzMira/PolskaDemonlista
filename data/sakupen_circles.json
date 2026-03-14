@@ -1,0 +1,36 @@
+{
+    "id": 76962930,
+    "name": "Sakupen Circles",
+    "author": "Diamond",
+    "creators": ["Nick24","DrCuber","korewa","Muffy450","Renn241","endevvor","Mzero","NineDice","GhostVandalf"],
+    "verifier": "Diamond",
+    "verification": "https://www.youtube.com/watch?v=nal3yuCSrxQ",
+    "percentToQualify": 69,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "kropka",
+            "link": "https://www.youtube.com/watch?v=nal3yuCSrxQ",
+            "percent": 100,
+            "hz": 480
+        },
+        {
+            "user": "Dramel [GD]",
+            "link": "https://www.youtube.com/watch?v=JSqto14xe7M",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "bartolini3",
+            "link": "https://www.youtube.com/watch?v=k1pa7k33-Gs",
+            "percent": 70,
+            "hz": 480
+        },
+        {
+            "user": "poulen",
+            "link": "https://www.youtube.com/watch?v=eYX7WB-pEFs",
+            "percent": 69,
+            "hz": 360
+        }
+    ]
+}
