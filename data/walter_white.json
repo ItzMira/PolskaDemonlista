@@ -13,6 +13,24 @@
             "link": "https://www.youtube.com/watch?v=L55X52oEB98",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Lanx",
+            "link": "https://www.youtube.com/watch?v=oGVsdYed8JI",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Komet01",
+            "link": "https://www.youtube.com/watch?v=59MOzANrdcU",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "mateleq",
+            "link": "https://www.youtube.com/watch?v=2TbiRR-10qA",
+            "percent": 100,
+            "hz": 240
         }
   ]
 }
