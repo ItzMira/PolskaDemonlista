@@ -14,11 +14,29 @@
             "percent": 100,
             "hz": 288
         },
-         {
+        {
             "user": "Light",
             "link": "https://www.youtube.com/watch?v=nlA3MfUJ7Bk",
             "percent": 76,
             "hz": 360
+        },
+        {
+            "user": "LotokzBot",
+            "link": "https://www.youtube.com/watch?v=8PaSXBW0whw",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Ares",
+            "link": "https://www.youtube.com/watch?v=w3i077hMwNw",
+            "percent": 100,
+            "hz": 480
+        },
+        {
+            "user": "kvvv",
+            "link": "https://www.youtube.com/watch?v=7qT-yu3gAgM",
+            "percent": 100,
+            "hz": 480
         }
      ]
 }
