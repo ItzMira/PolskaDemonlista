@@ -1,0 +1,18 @@
+{
+    "id": 103925676,
+    "name": "PSYCHOPATH",
+    "author": "DeniPol",
+    "creators": ["DeniPol"],
+    "verifier": "BONN GD",
+    "verification": "https://youtu.be/CqUqaOHSE98?si=zHytwURPLgCgRlCc",
+    "percentToQualify": 70,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Komet01",
+            "link": "https://youtu.be/CqUqaOHSE98?si=zHytwURPLgCgRlCc",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
