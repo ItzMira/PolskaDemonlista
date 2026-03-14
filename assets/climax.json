@@ -1,0 +1,59 @@
+{
+    "id": 95049815,
+    "name": "Climax",
+    "author": "HushLC",
+    "creators": ["Wain","HushLC"],
+    "verifier": "Wain",
+    "verification": "https://www.youtube.com/watch?v=Qp-l-NhNp5s",
+    "percentToQualify": 70,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Lanx",
+            "link": "https://www.youtube.com/watch?v=Qp-l-NhNp5s",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "dovv1n",
+            "link": "https://www.youtube.com/watch?v=7wMVN3a0fpw",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Komet01",
+            "link": "https://www.youtube.com/watch?v=bhzBCrDGnMw",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "fxpusphire",
+            "link": "https://www.youtube.com/watch?v=nRTGtgkvTI4",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "withet",
+            "link": "https://www.youtube.com/watch?v=wZlKOqolKIc",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "kawa",
+            "link": "https://www.youtube.com/watch?v=Dp4gkZ0BIzw",
+            "percent": 89,
+            "hz": 720
+        },
+        {
+            "user": "kropka",
+            "link": "https://www.youtube.com/watch?v=xTaPptC-5o8",
+            "percent": 74,
+            "hz": 240
+        },
+        {
+            "user": "lisyteam1230",
+            "link": "https://www.youtube.com/watch?v=U__xpNDg4_Y",
+            "percent": 72,
+            "hz": 240
+        }
+    ]
