@@ -37,6 +37,24 @@
             "link": "https://www.youtube.com/watch?v=2amrhp6L7sw",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "dovv1n",
+            "link": "https://www.youtube.com/watch?v=wmqP0Yhujto",
+            "percent": 83,
+            "hz": 240
+        },
+        {
+            "user": "Poros",
+            "link": "https://www.youtube.com/watch?v=8VKP18N4NDQ",
+            "percent": 80,
+            "hz": 480
+        },
+        {
+            "user": "kropka",
+            "link": "https://www.youtube.com/watch?v=ZoYcTGG5gnc",
+            "percent": 76,
+            "hz": 240
         }
     ]
 }
