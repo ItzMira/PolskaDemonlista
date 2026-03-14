@@ -14,9 +14,15 @@
             "percent": 100,
             "hz": 240
         },
-   {
+        {
             "user": "Stryg",
             "link": "https://youtu.be/FqLUH7Wmg2A",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "VerdantLands",
+            "link": "https://www.youtube.com/watch?v=JpKj1CgcyFs",
             "percent": 100,
             "hz": 240
         }
