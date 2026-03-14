@@ -1,0 +1,18 @@
+{
+    "id": 113322063,
+    "name": "CONVULSION",
+    "author": "stellar",
+    "creators": ["stellar"],
+    "verifier": "Whizkid05",
+    "verification": "https://www.youtube.com/watch?v=9rOxFUaEakg",
+    "percentToQualify": 64,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "dovv1n",
+            "link": "https://www.youtube.com/watch?v=9rOxFUaEakg",
+            "percent": 100,
+            "hz": 360
+        },
+    ]
+}
