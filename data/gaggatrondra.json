@@ -1,0 +1,24 @@
+{
+    "id": 114990369,
+    "name": "Gaggatrondra",
+    "author": "JCMoon",
+    "creators": ["JCMoon",],
+    "verifier": "Zeronium",
+    "verification": "https://www.youtube.com/watch?v=Yag6nKJf5Yc",
+    "percentToQualify": 68,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "MIxselPL",
+            "link": "https://www.youtube.com/watch?v=Yag6nKJf5Yc",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "fxpusphire",
+            "link": "https://www.youtube.com/watch?v=M6XhuAhdI90",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}
