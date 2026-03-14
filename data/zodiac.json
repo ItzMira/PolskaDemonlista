@@ -20,23 +20,77 @@
             "percent": 100,
             "hz": 720
         },
-       {
+        {
             "user": "igieyron",
             "link": "https://youtu.be/xvJ1rxzAtEI",
             "percent": 100,
             "hz": 240
         },
-    {
+        {
             "user": "MIxselPL",
             "link": "https://www.youtube.com/watch?v=4PUntC-U84Y&t=28s",
             "percent": 100,
             "hz": 360
         },     
-    {
+        {
             "user": "MiFig",
             "link": "https://www.youtube.com/watch?v=HJP9FlitWIs",
             "percent": 90,
             "hz": 240
+        },
+        {
+            "user": "laze",
+            "link": "https://www.youtube.com/watch?v=1-RGD7zta7w",
+            "percent": 100,
+            "hz": 240
+         },
+        {
+            "user": "BudgieParrot",
+            "link": "https://www.youtube.com/watch?v=tu8-EH3-fpc",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "OreSpawnMaster3",
+            "link": "https://www.youtube.com/watch?v=yhYd-qDWiGI",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Nikoo",
+            "link": "https://www.youtube.com/watch?v=AC16boncmRw",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "NoScope",
+            "link": "https://www.youtube.com/watch?v=rVMzHiyp9oE",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "UnityHost",
+            "link": "https://www.youtube.com/watch?v=qVP5sgzTq_Y",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Alanjx",
+            "link": "https://www.youtube.com/watch?v=wHucLEWHnZw",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "VerdantLands",
+            "link": "https://www.youtube.com/watch?v=YktAShXgLdI",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Morelek",
+            "link": "https://www.youtube.com/watch?v=FMo5YsWIT1M",
+            "percent": 100,
+            "hz": 360
         },
         {
             "user": "OnlinE_Play",
@@ -44,13 +98,13 @@
             "percent": 72,
             "hz": 240
         },
-         {
+        {
             "user": "ItzGabrix",
             "link": "https://youtu.be/ZcvLA7SnZgg",
             "percent": 64,
             "hz": 144
         },
-    {
+        {
           "user": "MateleQ",
           "link": "https://youtu.be/lvXmzQfHAWo?si=Tc7OQkaeKZiB66r-",
           "percent": 61,
