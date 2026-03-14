@@ -19,6 +19,18 @@
             "link": "https://www.youtube.com/watch?v=9i3g5DIcXlk",
             "percent": 100,
             "hz": 660
+        },
+        {
+            "user": "Kafpu"
+            "link": "https://www.youtube.com/watch?v=_nNiImkMWzk",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Ares",
+            "link": "https://www.youtube.com/watch?v=vtpMiEmqLqk",
+            "percent": 100,
+            "hz": 480
         }
     ]
 }
