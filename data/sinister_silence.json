@@ -1,0 +1,24 @@
+{
+    "id": 82249742,
+    "name": "Sinister Silence",
+    "author": "Wahffle",
+    "creators": ["DiamondSplash", "Enzeux", "Luksa", "RpgRaketti", "GDonut", "ViewSonic", "JHdash77", "Stilluetto", "Chara", "Seturan", "SnowBallerr", "Cersia", "Almohadaless", "Doggie", "DTDom", "Teno", "Laniakea", "Kv082", "crumche", "Zeroxy", "ViperVenom95", "Kasane Teto", "rose;", "T'im", "ArtsiBurn", "skzyl", "D3lteX", "Muffy450", "Dorvict", "xeox", "Bluestone413", "DarkTD", "Kaza", "Zeronium", "fakeblast", "RicoLP", "Cheyne", "BlazerWolf", "skycrab", "Johnfree", "Gokill", "Pike", "Jeremy Clarkson", "nicor77", "hstorm", "MiniShoey", "vaen", "Kelvin", "Vikings", "TheZinkYT", "ked", "Konsuno", "Bibu", "Tombstone", "Wahffle", "vulcanium4", "HugoHMF", "CheezySF", "VoVocado", "Tunax", "RedMatrix", "CrispyKey", "zRobin", "gruzy", "PiskovecObecny", "Azuvy", "BloodyDemon575", "Corvii", "Etheriall", "Ech0", "Remy", "EleKtr1X", "Urk", "IIZynnsII", "Zenkabi", "Seany", "Axel996", "Snbbit", "noodleshelf", "Imi", "SmokeScream", "IceConey", "Chaotrix", "Presty", "VamP", "Weenside", "Sledge", "Owen", "GamerKnight750", "Chee2y", "Xapia", "fitatfi", "teraaa", "kloone", "function", "Elevens", "mlodyalanjx", "solarion", "Pandora", "foody", "Fenniko", "CairoX"],
+    "verifier": "DarkTD",
+    "verification": "https://youtu.be/ZLOLw5H_R_g?si=DQs4ekwXE5Ok783i",
+    "percentToQualify": 69,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "VerdantLands",
+            "link": "https://youtu.be/ZLOLw5H_R_g?si=DQs4ekwXE5Ok783i",
+            "percent": 100,
+            "hz": 360
+        },
+      {
+        "user": "ItzMira",
+        "link": "https://youtu.be/4BAn-4ie9Cc?si=H27_PwAXEDF9RQZy",
+        "percent": 100,
+        "hz": 240
+        }
+    ]
+}
