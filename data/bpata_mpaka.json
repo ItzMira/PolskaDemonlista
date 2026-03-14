@@ -1,0 +1,24 @@
+{
+    "id": 109947627,
+    "name": "BPATA MPAKA",
+    "author": "Inex",
+    "creators": ["NitroN","Inex","MittiRan","WitaWaier","Axon","Zeox","Unity","Nezeritoz","Yakov47","Hashinoby","Akeko","Dilisae","Ziza","Pes11","Markota","E9_KH","Sosiska"],
+    "verifier": "maybee",
+    "verification": "https://www.youtube.com/watch?v=3YXf0iM-5lE",
+    "percentToQualify": 71,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "dovv1n",
+            "link": "https://www.youtube.com/watch?v=3YXf0iM-5lE",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "fxpusphire",
+            "link": "https://www.youtube.com/watch?v=FENWvk6M7JE",
+            "percent": 86,
+            "hz": 120
+        }
+    ]
+}
