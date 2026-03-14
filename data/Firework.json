@@ -5,7 +5,7 @@
     "creators": ["Buragoz","Konsi","Crouley","00Zero","Desumari","Realvet","Itami","Orte","Vernam","Hantein","Lillium","Lekvid"],
     "verifier": "TrickGMD",
     "verification": "https://youtu.be/keVlE1KsJDE?si=bBb3GDKhkbp1GRuv",
-    "percentToQualify": 55,
+    "percentToQualify": 71,
     "password": "234000",
     "records": [
         {
@@ -21,16 +21,22 @@
             "hz": 360
         },
         {
-            "user": "OnlinE_Play",
-            "link": "https://youtu.be/AOme_hACgdA?si=ykc5SpIpFKHXqw22",
-            "percent": 69,
+            "user": "Stryg",
+            "link": "https://youtu.be/WoogYWDMX3Y?si=pO0LnFkJo-OvqZ_H",
+            "percent": "100",
             "hz": 240
         },
         {
-            "user": "bugs0987",
-            "link": "https://youtu.be/lqlLXTMQgV8?si=5rWWQztu-zoL6AyY",
-            "percent": "63",
-            "hz": 360
+            "user": "OnlinE_Play",
+            "link": "https://youtu.be/SYXL71aXiVA?si=AJKi2HoBG7t8MnUP",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "bartolini3",
+            "link": "https://youtu.be/CUMVvHoq_mk?si=_uendZ_Mk5BoF-sZ",
+            "percent": 81,
+            "hz": 480
         }
     ]
 }
