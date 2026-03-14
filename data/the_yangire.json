@@ -1,0 +1,24 @@
+{
+    "id": 110500920,
+    "name": "The Yangire",
+    "author": "Dorami",
+    "creators": ["Dorami","Mulpan","Buragoz","Xaro","Partition","DavJT","DeniPol","Enzore","Jenkins GD","Alderite","Master X","Spectex","Zafkiel","JonathanGD","Yoonsr","Synd","MaxyLAND","matty2003","MercuryDT","IGenoxide","DHaner","Electro","Astraa","iIBonIi"],
+    "verifier": "Dorami",
+    "verification": "https://www.youtube.com/watch?v=x0mtqlEOtC8",
+    "percentToQualify": 73,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "BudgieParrot",
+            "link": "https://www.youtube.com/watch?v=x0mtqlEOtC8",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "OnlinE_Play",
+            "link": "https://www.youtube.com/watch?v=JZdysNRAHic",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
