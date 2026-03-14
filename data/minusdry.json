@@ -1,0 +1,36 @@
+{
+    "id": 89414220,
+    "name": "MINUSdry",
+    "author": "CDMusic",
+    "creators": ["CDMusic","Sevant"],
+    "verifier": "Varium",
+    "verification": "https://www.youtube.com/watch?v=VBhcpBFadQw",
+    "percentToQualify": 75,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Komet01",
+            "link": "https://www.youtube.com/watch?v=VBhcpBFadQw",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "BudgieParrot",
+            "link": "https://www.youtube.com/watch?v=27EY8Zb53Bs",
+            "percent": 100,
+            "hz": 480
+        },
+        {
+            "user": "Lanx",
+            "link": "https://www.youtube.com/watch?v=bnl5n3LHHPM",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "dovv1n",
+            "link": "https://www.youtube.com/watch?v=atb3H0iczHU",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
