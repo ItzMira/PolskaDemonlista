@@ -58,9 +58,33 @@
         },
         {
             "user": "Hcilx",
-            "link": "https://www.youtube.com/watch?v=YNmj8RYOjHU",
-            "percent": 52,
+            "link": "https://www.youtube.com/watch?v=PjROM49HfmM",
+            "percent": 75,
             "hz": 240
+        },
+        {
+            "user": "Xino",
+            "link": "https://www.youtube.com/watch?v=I-UbPUWUV4Y",
+            "percent": 75,
+            "hz": 480
+        },
+        {
+            "user": "rChamber",
+            "link": "https://www.youtube.com/watch?v=dug_FjZXagk",
+            "percent": 71,
+            "hz": 360
+        },
+        {
+            "user": "Mertex",
+            "link": "https://www.youtube.com/watch?v=3UQX45rx6Js",
+            "percent": 67,
+            "hz": 360
+        },
+        {
+            "user": "Owlyy",
+            "link": "https://www.youtube.com/watch?v=PJ2O-QAprpo",
+            "percent": 67,
+            "hz": 480
         }
     ]
 }
