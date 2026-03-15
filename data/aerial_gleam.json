@@ -1,0 +1,18 @@
+{
+    "id": 79771070,
+    "name": "Aerial Gleam",
+    "author": "Endlevel",
+    "creators": ["Endlevel", "Antares", "Deadlox", "Culuc"],
+    "verifier": "Doggie",
+    "verification": "https://youtu.be/xBWbDckO8RY?si=fyzIPiv4FHnYzAdR",
+    "percentToQualify": 100,
+    "password": "789123",
+    "records": [
+        {
+            "user": "Lanx",
+            "link": "https://youtu.be/xBWbDckO8RY?si=fyzIPiv4FHnYzAdR",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
