@@ -14,11 +14,17 @@
             "percent": 100,
             "hz": 360
         },
-          {
+        {
             "user": "Kasia",
             "link": "https://youtu.be/GaX_pZGh2Qs?si=Q2QOnRySB8DbOTaM",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "WDWiktor",
+            "link": "https://www.youtube.com/watch?v=80euTCz-Hag",
+            "percent": 100,
+            "hz": 480
         }
     ]
 }
