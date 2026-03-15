@@ -15,10 +15,34 @@
             "hz": 500
         },
         {
-            "user": "Light",
-            "link": "https://www.youtube.com/watch?v=dPq_ZkmU6Wg",
-            "percent": 67,
-            "hz": 500
-        }    
+            "user": "Stryg",
+            "link": "https://www.youtube.com/watch?v=TP1Mh8EqgTA",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Phoxxx",
+            "link": "https://www.youtube.com/watch?v=cprUNVe2q-8",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Gopso",
+            "link": "https://www.youtube.com/watch?v=ND3LV-DV1ig",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "BudgieParrot",
+            "link": "https://www.youtube.com/watch?v=BO76Zfx2jjI",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "kvvv",
+            "link": "https://www.youtube.com/watch?v=3oli3sJL4Sg",
+            "percent": 100,
+            "hz": 480
+        }
     ]
 }
