@@ -133,6 +133,60 @@
             "link": "https://www.youtube.com/watch?v=NnoNKDISN0o",
             "percent": 100,
             "hz": 300
+        },
+        {
+            "user": "wolfik",
+            "link": "https://www.youtube.com/watch?v=Y1nO9t-RCSM",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Shaooo",
+            "link": "https://www.youtube.com/watch?v=U4LkXQbqtZg",
+            "percent": 100,
+            "hz": 960
+        },
+        {
+            "user": "lolspye",
+            "link": "https://www.youtube.com/watch?v=qzBKPiPZe8s",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "OnlinE_Play",
+            "link": "https://www.youtube.com/watch?v=b3hCUe5u-MU",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Gopso",
+            "link": "https://www.youtube.com/watch?v=mRBhGMDkwRs",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Morelek",
+            "link": "https://www.youtube.com/watch?v=pUmTvxU3pz0",
+            "percent": 100,
+            "hz": 480
+        },
+        {
+            "user": "Pythrox",
+            "link": "https://www.youtube.com/watch?v=7mZ8bWiE6YM",
+            "percent": 100,
+            "hz":
+        },
+        {
+            "user": "Sraczong",
+            "link": "https://medal.tv/games/geometry-dash/clips/lEccDdncWv1GlRkef",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Mexui",
+            "link": "https://www.youtube.com/watch?v=jj0Klh9wI6c",
+            "percent": 77,
+            "hz": 360
         }
     ]
 }
