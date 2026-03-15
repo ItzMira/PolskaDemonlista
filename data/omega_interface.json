@@ -32,9 +32,21 @@
             "percent": 100,
             "hz": 240
         },
-      {
+        {
             "user": "MateleQ",
             "link": "https://youtu.be/ZD9PtT3a59s?si=9xA5se_Cy1O52GUg",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "kropka",
+            "link": "https://www.youtube.com/watch?v=Gnt17fSZxk8",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "nPumpz",
+            "link": "https://www.youtube.com/watch?v=PWxVmed6I8w",
             "percent": 100,
             "hz": 240
         },
@@ -43,12 +55,6 @@
             "link": "https://www.youtube.com/watch?v=_NekAtLlfZ0",
             "percent": 50,
             "hz": 240
-        },
-        {
-            "user": "nPumpz",
-            "link": "https://www.youtube.com/watch?v=C-9fmQXLAPo",
-            "percent": 47,
-            "hz": 165
         }
     ]
 }
