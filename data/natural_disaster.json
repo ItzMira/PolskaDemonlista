@@ -1,0 +1,24 @@
+{
+    "id": 107741051,
+    "name": "Natural Disaster",
+    "author": "iIiLaseriIi",
+    "creators": ["CairoX","Dreamlight","dutchiee","awesomeme360","Pedro796","JustFeijoa","Szilu","nyoom","AVRG","FreddyDash","xenith","PugDomination","CantisGD","GammaReXx","Peng","Isem"],
+    "verifier": "iIiLaseriIi",
+    "verification": "https://www.youtube.com/watch?v=FgPF3W8l3E8",
+    "percentToQualify": 71,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Komet01",
+            "link": "https://www.youtube.com/watch?v=FgPF3W8l3E8",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Gopso",
+            "link": "https://www.youtube.com/watch?v=p0KaVwN2kgw",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
