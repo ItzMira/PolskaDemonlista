@@ -1,0 +1,30 @@
+{
+    "id": 95176417,
+    "name": "NETWORK",
+    "author": "Agat3",
+    "creators": ["Kaza","theworldofme","Agat3"],
+    "verifier": "vulcanium4",
+    "verification": "https://www.youtube.com/watch?v=Kw5PaXZtze4",
+    "percentToQualify": 76,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Jarmusz",
+            "link": "https://www.youtube.com/watch?v=Kw5PaXZtze4",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "MTX",
+            "link": "https://www.youtube.com/watch?v=YURLUwMaXa8",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "mateleq",
+            "link": "https://www.youtube.com/watch?v=tLvM47_b7rY",
+            "percent": 82,
+            "hz": 240
+        }
+    ]
+}
