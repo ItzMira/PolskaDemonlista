@@ -61,6 +61,12 @@
             "link": "https://www.youtube.com/watch?v=mknB-zKQd9A",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Bobssy",
+            "link": "https://www.youtube.com/watch?v=EYg20m73WVQ",
+            "percent": 90,
+            "hz": 300
         }
     ]
 }
