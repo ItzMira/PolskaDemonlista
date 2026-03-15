@@ -115,6 +115,30 @@
             "link": "https://www.youtube.com/watch?v=FXqBwN0ZuV4",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Kraken",
+            "link": "https://www.youtube.com/watch?v=3fDhVV_ztoM",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "blobik",
+            "link": "https://www.youtube.com/watch?v=gNAFmrkv4RI",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "bartolini3",
+            "link": "https://www.youtube.com/watch?v=JiUeP-AtCN0",
+            "percent": 100,
+            "hz": 480
+        },
+        {
+            "user": "michauuu",
+            "link": "https://www.youtube.com/watch?v=Bjw9TOopfSI",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
