@@ -1,0 +1,43 @@
+{
+    "id": 75286957,
+    "name": "Shukketsu",
+    "author": "Yuko",
+    "creators": ["Gablor","Zenn","Yuko","Duke","lexycat"],
+    "verifier": "Baeru",
+    "verification": "https://www.youtube.com/watch?v=fjQR5fDb_gA",
+    "percentToQualify": 78,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "BudgieParrot",
+            "link": "https://www.youtube.com/watch?v=fjQR5fDb_gA",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Lukrasz",
+            "link": "https://www.youtube.com/watch?v=mCKJl45wXJQ",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Hacky",
+            "link": "https://www.youtube.com/watch?v=UqAT74td9Ks",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "KubeczekTV",
+            "link": "https://www.youtube.com/watch?v=U9v6bG0qVUA",
+            "percent": 86,
+            "hz": 240
+        },
+        {
+            "user": "Doubley",
+            "link": "https://www.youtube.com/watch?v=3YynhFBMMTA",
+            "percent": 80,
+            "hz": 240
+        }
+      
+    ]
+}
