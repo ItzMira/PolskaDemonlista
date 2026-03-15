@@ -1,0 +1,18 @@
+{
+    "id": 115380769,
+    "name": "Starlit Stroll",
+    "author": "Enfur",
+    "creators": ["Cork", "Enfur"],
+    "verifier": "TheButcher",
+    "verification": "https://youtu.be/IbljdasxaOw?si=RDMxwtkua_HIPijt",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "fxpusphire",
+            "link": "https://youtu.be/IbljdasxaOw?si=RDMxwtkua_HIPijt",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
