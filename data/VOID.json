@@ -1,0 +1,18 @@
+{
+    "id": 100990392,
+    "name": "VOID",
+    "author": "nikoberry",
+    "creators": ["nikoberry"],
+    "verifier": "Whizkid05",
+    "verification": "https://youtu.be/BDny_Dl9D18?si=3dIW6xSdVUhOJrJv",
+    "percentToQualify": 50,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "ywe",
+            "link": "https://youtu.be/BDny_Dl9D18?si=3dIW6xSdVUhOJrJv",
+            "percent": 100,
+            "hz": 288
+        }
+    ]
+}
