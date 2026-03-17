@@ -1,0 +1,24 @@
+{
+    "id": 78435955,
+    "name": "Esfera",
+    "author": "SyQual",
+    "creators": ["Sikatsuka", "SyQual", "Netflix", "KeiAs", "Gau", "Galchi", "Nisha", "Gaudium", "Quitora", "Cmel", "Leina", "Molds", "Estachi", "AnGyung", "Temp", "Naimnaro", "GD 3NIV", "Dister K", "Yonaka", "TheCdPre", "Trolla", "Phen", "Redblock1", "iEstia", "Mintjelly", "Mulpan", "Cenos"],
+    "verifier": "Baeru",
+    "verification": "https://youtu.be/1QrClkUfcVw?si=z0h0qCmMXHfHpuMr",
+    "percentToQualify": 50,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "VerdantLands",
+            "link": "https://youtu.be/1QrClkUfcVw?si=z0h0qCmMXHfHpuMr",
+            "percent": 100,
+            "hz": 360
+        },
+      {
+        "user": "Jarmusz",
+        "link": "https://youtu.be/VVfAS6aKojo?si=Iuumx_i6sYRrCIN9",
+        "percent": 100,
+        "hz": 120
+        }
+    ]
+}
