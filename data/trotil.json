@@ -48,7 +48,13 @@
             "user": "kawa",
             "link": "https://www.youtube.com/watch?v=dNItnGnNHIs",
             "percent": 100,
-            "hz": 480
+        "hz": 480
+        },
+        {
+            "user": "Imperator",
+            "link": "https://youtu.be/H_97_WfbrFI?si=Rf7h9LDOdpCR0di3",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
