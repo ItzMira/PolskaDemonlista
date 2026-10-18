@@ -57,9 +57,15 @@
             "hz": 240
         },
         {
+            "user": "tio",
+            "link": "https://www.youtube.com/watch?v=vypGB9uYyh8",
+            "percent": 100,
+            "hz": 960
+        },
+        {
             "user": "MrPenguin",
-            "link": "https://www.youtube.com/watch?v=JyQfiIWdWmA&t=21s",
-            "percent": 82,
+            "link": "https://www.youtube.com/watch?v=IibBr0jruD4&t=1s",
+            "percent": 100,
             "hz": 480
         }
     ]
