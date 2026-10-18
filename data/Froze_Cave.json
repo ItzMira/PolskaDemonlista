@@ -43,6 +43,12 @@
             "link": "https://youtu.be/RJ1qrsjBdWA",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Bartolini",
+            "link": "https://www.youtube.com/watch?v=QcZs3ib9lBw",
+            "percent": 100,
+            "hz": 480
         }
-]
+    ]
 }
