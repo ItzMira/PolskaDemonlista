@@ -13,6 +13,12 @@
             "link": "https://www.youtube.com/watch?v=qGrXFkpKQkQ",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "narpify",
+            "link": "https://www.youtube.com/watch?v=bwXNOb-lmVU",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
