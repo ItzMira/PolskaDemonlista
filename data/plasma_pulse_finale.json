@@ -61,6 +61,24 @@
             "link": "https://youtu.be/p49j8Mq_UpY?si=LfPzXQlpGZVRqxkE",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Kublinek",
+            "link": "https://www.youtube.com/watch?v=s27QounsJ-Y",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Pompi",
+            "link": "https://www.youtube.com/watch?v=LCz-zoFUP9I",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Sanctuary",
+            "link": "https://www.youtube.com/watch?v=z0e2QmIVxD0",
+            "percent": 100,
+            "hz": 480
         }
     ]
 }
