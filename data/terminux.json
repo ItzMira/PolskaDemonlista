@@ -19,6 +19,24 @@
             "link": "https://www.youtube.com/watch?v=2cIF9u60JTI",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "kvvv",
+            "link": "https://www.youtube.com/watch?v=eD-N050aVTU",
+            "percent": 100,
+            "hz": 480
+        },
+        {
+            "user": "Stryg",
+            "link": "https://www.youtube.com/watch?v=CVykNMS3UvM",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "TheRealLcK",
+            "link": "https://www.youtube.com/watch?v=7s6aCuZkBdw",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
