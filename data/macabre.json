@@ -1,4 +1,4 @@
-{
+e{
     "id": 56782662,
     "name": "Macabre",
     "author": "ZephiroX",
@@ -35,6 +35,18 @@
         {
             "user": "Nikoo",
             "link": "https://www.youtube.com/watch?v=tZwOyaattpk",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "kasia",
+            "link": "https://www.youtube.com/watch?v=hhuRCkfW3Hs",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Jarmusz",
+            "link": "https://www.youtube.com/watch?v=KV7gWAqsDMY",
             "percent": 100,
             "hz": 240
         }
