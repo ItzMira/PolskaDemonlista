@@ -67,6 +67,18 @@
             "link": "https://www.youtube.com/watch?v=sz1ESkskhlg",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Jarmusz",
+            "link": "https://www.youtube.com/watch?v=ioIay2RBWOI",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "wpbartekx",
+            "link": "https://www.youtube.com/watch?v=uoj60h9F5eg",
+            "percent": 100,
+            "hz": 480
         }
     ]
 }
