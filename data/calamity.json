@@ -13,6 +13,12 @@
             "link": "https://youtu.be/mLK8iN_o1nw",
             "percent": 100,
             "hz": 360
-        }      
-]
+        },
+        {
+            "user": "Zank",
+            "link": "https://www.youtube.com/watch?v=syYOhygjbI0",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
 }
