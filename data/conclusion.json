@@ -61,6 +61,12 @@
             "link": "https://www.youtube.com/watch?v=PpUPwcIuyQ0",
             "percent": 100,
             "hz": 480
+        },
+        {
+            "user": "Madzikus",
+            "link": "https://www.youtube.com/watch?v=80x5oyaV5Jc",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
