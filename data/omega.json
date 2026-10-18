@@ -32,11 +32,17 @@
             "percent": 100,
             "hz": 288
         },
-   {
+        {
             "user": "kasia",
             "link": "https://youtu.be/YYRBSj0Wc8A",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "ItzMira",
+            "link": "https://www.youtube.com/watch?v=GskUU96EOxI",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
