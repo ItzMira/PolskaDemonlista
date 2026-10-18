@@ -49,6 +49,18 @@
             "link": "https://www.youtube.com/watch?v=qlNJAF0dCWI",
             "percent": 100,
             "hz": 240
+        },
+        {          
+            "user": "ItzMira",
+            "link": "https://www.youtube.com/watch?v=qkzz2nVSc1ge",
+            "percent": 100,
+            "hz": 240
+        },
+        {          
+            "user": "mateleq",
+            "link": "https://www.youtube.com/watch?v=SoPtUgoTWq8",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
