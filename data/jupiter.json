@@ -14,11 +14,29 @@
             "percent": 100,
             "hz": 240
         },
-      {
-        "user": "Kyuumiko",
-        "link": "https://youtu.be/8LMAIa48VHI?si=tXzxqmZv2SnthE74",
-        "percent": 100,
-        "hz": 240
+        {
+            "user": "Kyuumiko",
+            "link": "https://youtu.be/8LMAIa48VHI?si=tXzxqmZv2SnthE74",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "ywe",
+            "link": "https://www.youtube.com/watch?v=Ze2o_8gcYm0",
+            "percent": 100,
+            "hz": 288
+        },
+        {
+            "user": "LanLiangator",
+            "link": "https://www.youtube.com/watch?v=Z2FzlGDeVwc",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "kasia",
+            "link": "https://www.youtube.com/watch?v=2q-OsU0vccY",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
