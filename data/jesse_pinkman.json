@@ -21,10 +21,34 @@
             "hz": 240
         },
         {
-            "user": "ProgamerrrPL",
-            "link": "https://youtu.be/_mA-qdy5gOU?si=J047pSCuBSIiheyA",
-            "percent": 84,
-            "hz": 144
+            "user": "igor",
+            "link": "https://www.youtube.com/watch?v=8Nkp9kG8Bd4",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "KubeczekTV",
+            "link": "https://www.youtube.com/watch?v=AwDBrozJz6o",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Doggo",
+            "link": "https://www.youtube.com/watch?v=E5n6yciyLtE",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "PatelnjaPL",
+            "link": "https://www.youtube.com/watch?v=vxQAEu979nU",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "kasia",
+            "link": "https://www.youtube.com/watch?v=oc1JJep11uo",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
