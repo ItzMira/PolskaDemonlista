@@ -5,14 +5,20 @@
     "creators": ["Nightning","stanstanmansan","crohn44"],
     "verifier": "Laurendi",
     "verification": "https://youtu.be/RSlY2VYmFnc?si=rupRVZSYasqNsYEV",
-    "percentToQualify": 57,
+    "percentToQualify": 57, 
     "password": "Free To Copy",
     "records": [
         {
             "user": "Dramel [GD]",
-            "link": "https://youtu.be/RSlY2VYmFnc?si=rupRVZSYasqNsYEV",
+            "link": "https://youtu.be/RSlY2VYmFnc?si=rupRVZSYasqNsYEV", 
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "kasia",
+            "link": "https://www.youtube.com/watch?v=mVXorvrfzJM", 
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
