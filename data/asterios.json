@@ -13,6 +13,18 @@
             "link": "hhttps://www.youtube.com/watch?v=18a_mv6GkN0",
             "percent": 100,
             "hz": 300
+        },
+        {
+            "user": "BrowarKedawar",
+            "link": "https://www.youtube.com/watch?v=DweUIzGDjCk",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "LanLiangator",
+            "link": "https://www.youtube.com/watch?v=6wIQT66upyc",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
