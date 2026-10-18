@@ -4,7 +4,7 @@
     "author": "XLSpiral",
     "creators": ["XLSpiral"],
     "verifier": "Wooshi",
-    "verification": "https://youtu.be/a69s2iflLAA?si=zpUtEoPArIzAkc-O",
+    "verification": "https://youtu.be/a69s2iflLAA?si=zpUtEoPArIzAkc-O", https://www.youtube.com/@shapsGD
     "percentToQualify": 69,
     "password": "Free To Copy",
     "records": [
@@ -19,6 +19,12 @@
             "link": "https://m.youtube.com/watch?v=WNtx5WQHcQg&t=2s",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Shaps",
+            "link": "https://www.youtube.com/watch?v=RBYgW4-lpnM",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
