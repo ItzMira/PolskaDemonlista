@@ -4,7 +4,7 @@
     "author": "Luqualizer",
     "creators": ["Play 1107696"],
     "verifier": "Luqualizer",
-    "verification": "https://youtu.be/gikuk2YyxHQ?si=NC4EWY-A_6OvC4fo",
+    "verification": "https://youtu.be/gikuk2YyxHQ?si=NC4EWY-A_6OvC4fo", https://www.youtube.com/watch?v=x18HSdiZ654
     "percentToQualify": 50,
     "password": "Free To Copy",
     "records": [
@@ -13,6 +13,12 @@
             "link": "https://youtu.be/gikuk2YyxHQ?si=NC4EWY-A_6OvC4fo",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "AdrianX159",
+            "link": "https://www.youtube.com/watch?v=x18HSdiZ654",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
