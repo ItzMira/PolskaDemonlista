@@ -41,7 +41,7 @@
         {
             "user": "kropka",
             "link": "https://www.youtube.com/watch?v=Gnt17fSZxk8",
-            "percent": 100,
+            "percent": 100, 
             "hz": 240
         },
         {
@@ -49,6 +49,12 @@
             "link": "https://www.youtube.com/watch?v=PWxVmed6I8w",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "kasia",
+            "link": "https://www.youtube.com/watch?v=_39PCHgJenI",
+            "percent": 100,
+            "hz": 360
         },
         {
             "user": "default2137",
