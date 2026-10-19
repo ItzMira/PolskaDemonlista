@@ -52,7 +52,7 @@
         },
         {
             "user": "fxpusphire",
-            "link": "https://www.youtube.com/watch?v=uFxYdk0QDWA",
+            "link": "https://www.youtube.com/watch?v=uFxYdk0QDWA", 
             "percent": 100,
             "hz": 240
         },
@@ -61,6 +61,24 @@
             "link": "https://www.youtube.com/watch?v=mknB-zKQd9A",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "lunikay",
+            "link": "https://www.youtube.com/watch?v=mxx4YNVZqwk",
+            "percent": 100,
+            "hz": 480
+        },
+        {
+            "user": "pallas",
+            "link": "https://www.youtube.com/watch?v=KbVJxByezHI",
+            "percent": 100,
+            "hz": 480
+        },
+        {
+            "user": "kasia",
+            "link": "https://www.youtube.com/watch?v=Puk1RgWSEew",
+            "percent": 100,
+            "hz": 360
         },
         {
             "user": "Bobssy",
