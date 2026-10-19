@@ -85,6 +85,18 @@
             "link": "https://www.youtube.com/watch?v=yhMzHGYODNk",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "wolfik",
+            "link": "https://www.youtube.com/watch?v=BRqyGMvi2WU",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Morelek",
+            "link": "https://www.youtube.com/watch?v=uKalLQJWqfc",
+            "percent": 100,
+            "hz": 360
         }
      ]
 }
