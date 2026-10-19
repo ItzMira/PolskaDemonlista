@@ -13,6 +13,12 @@
             "link": "https://www.youtube.com/watch?v=Rx8QTwIUiMU",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "kasia",
+            "link": "https://www.youtube.com/watch?v=fX6HI0WWob8",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
