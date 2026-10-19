@@ -87,6 +87,72 @@
             "hz": 360
         },
         {
+            "user": "TheRealLcK",
+            "link": "https://www.youtube.com/watch?v=t2Ed9drAPEw",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Pidey",
+            "link": "https://www.youtube.com/watch?v=hisVGUGeECQ",
+            "percent": 100,
+            "hz": 720
+        },
+        {
+            "user": "KubeczekTV",
+            "link": "https://www.youtube.com/watch?v=0VZvl4KYTJw",
+            "percent": 100,
+            "hz": 1200
+        },
+        {
+            "user": "kvvv",
+            "link": "https://www.youtube.com/watch?v=yznKA3MybjE",
+            "percent": 100,
+            "hz": 480
+        },
+        {
+            "user": "kasia",
+            "link": "https://www.youtube.com/watch?v=PoDEiS5EoPk",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "adi",
+            "link": "https://www.youtube.com/watch?v=KwP2hm07oYw",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "vitamin227",
+            "link": "https://www.youtube.com/watch?v=LQ0g6eRWsm8",
+            "percent": 100,
+            "hz": 288
+        },
+        {
+            "user": "CZOPIKS",
+            "link": "https://www.youtube.com/watch?v=Asl8E8as_MQ",
+            "percent": 100,
+            "hz": 480
+        },
+        {
+            "user": "Nercioo",
+            "link": "https://www.youtube.com/watch?v=ixaFfou6_40",
+            "percent": 100,
+            "hz": 480
+        },
+        {
+            "user": "Michauuu",
+            "link": "https://www.youtube.com/watch?v=fu-f-vTDn60",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "macius",
+            "link": "https://www.youtube.com/watch?v=26OYICXaNbs",
+            "percent": 100,
+            "hz": 540
+        },
+        {
             "user": "fxpusphire",
             "link": "https://www.youtube.com/watch?v=KGqo2AGT_0g",
             "percent": 94,
@@ -103,12 +169,6 @@
             "link": "https://www.youtube.com/watch?v=06zsiaEJ9pM",
             "percent": 79,
             "hz": 360
-        },
-        {
-            "user": "Nercioo",
-            "link": "https://www.youtube.com/watch?v=s3xIw4FZGvg",
-            "percent": 79,
-            "hz": 240
         },
         {
             "user": "nPumpz",
