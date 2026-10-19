@@ -14,11 +14,17 @@
             "percent": 100,
             "hz": 360
         },
-      {
-        "user": "Kraken",
-        "link": "https://youtu.be/u1zITwsdQrQ?si=9KjVyRSrKhhyvx9m",
-        "percent": 100,
-        "hz": 240
+        {
+            "user": "Kraken",
+            "link": "https://youtu.be/u1zITwsdQrQ?si=9KjVyRSrKhhyvx9m",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Romulad",
+            "link": "https://www.youtube.com/watch?v=p8ICcJOL7fk",
+            "percent": 100,
+            "hz": 600
         }
     ]
 }
