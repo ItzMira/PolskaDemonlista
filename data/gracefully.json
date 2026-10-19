@@ -1,0 +1,36 @@
+{
+    "id": 88226064,
+    "name": "Gracefully",
+    "author": "NindyBK",
+    "creators": ["Silouute","Tchotcke","Zenn","Knots","Subpixel","D3ltex","BlowMyPooh","bizaare","ph0bic","Destiny kawaii","kaz","zYuko","NindyBK","ThunderBat","CarlJrc","Shrympo","AgSilver","Plusitive","MonsterVP","BurittoGamerX","StiZzy","DTDom","xHeiDax","Zowst"],
+    "verifier": "noxiom",
+    "verification": "https://www.youtube.com/watch?v=Moq-nQmpWzs",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Takos",
+            "link": "https://www.youtube.com/watch?v=Moq-nQmpWzs",
+            "percent": 100,
+            "hz": 180
+        },
+        {
+            "user": "kasia",
+            "link": "https://www.youtube.com/watch?v=3PaTjtZjMCg",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "KubeczekTV",
+            "link": "https://www.youtube.com/watch?v=7uu_qsLr0s0&list=PLV_7LIfNK-tGG-pbmjKX-GWzBaeGJ0aGk",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Anvitar",
+            "link": "https://www.youtube.com/watch?v=6HgrZj-hGrw",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
