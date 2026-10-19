@@ -13,6 +13,18 @@
             "link": "https://www.youtube.com/watch?v=j9G9H3PYTkk",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Komet01",
+            "link": "https://www.youtube.com/watch?v=ev0VwPvDjNY",
+            "percent": 100,
+            "hz": 480
+        },
+        {
+            "user": "lunikay",
+            "link": "https://www.youtube.com/watch?v=1B0ZfLST97o",
+            "percent": 100,
+            "hz": 960
         }
     ]
 }
