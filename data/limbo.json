@@ -15,16 +15,22 @@
             "hz": 240
         },
         {
+            "user": "wolfik",
+            "link": "https://www.youtube.com/watch?v=4CYfqedhgbw",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Lukrasz",
+            "link": "https://www.youtube.com/watch?v=im9_yneCj-M",
+            "percent": 100,
+            "hz": 480
+        },
+        {
             "user": "bartolini3",
             "link": "https://www.youtube.com/watch?v=Ze-3o3-kdQI",
             "percent": 65,
             "hz": 480
-        },
-        {
-            "user": "Lukrasz",
-            "link": "https://www.youtube.com/watch?v=3Fai1YOYu2M",
-            "percent": 64,
-            "hz": 120
         }
     ]
 }
