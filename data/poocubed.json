@@ -31,6 +31,18 @@
             "link": "https://www.youtube.com/watch?v=0U_nnvStFi4",
             "percent": 100,
             "hz": 480
+        },
+        {
+            "user": "lunikay",
+            "link": "https://www.youtube.com/watch?v=CJqQiQa8sXg",
+            "percent": 100,
+            "hz": 480
+        },
+        {
+            "user": "proxo",
+            "link": "https://www.youtube.com/watch?v=nZSb3bSkKms",
+            "percent": 100,
+            "hz": 720
         }
     ]
 }
