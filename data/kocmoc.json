@@ -14,11 +14,11 @@
             "percent": 100,
             "hz": 240
         },
-      {
-        "user": "kropka",
-        "link": "https://youtu.be/Rgv9LAdMB_0?si=I_7ptWxjwA6PQ6HE",
-        "percent": 100,
-        "hz": 720   
+        {
+            "user": "kropka",
+            "link": "https://youtu.be/Rgv9LAdMB_0?si=I_7ptWxjwA6PQ6HE",
+            "percent": 100,
+            "hz": 720   
         }
     ]
 }
