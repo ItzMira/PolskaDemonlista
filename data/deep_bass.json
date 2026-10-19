@@ -1,0 +1,18 @@
+{
+    "id": 96383663,
+    "name": "Deep Bass",
+    "author": "Wespdx",
+    "creators": ["Wespdx","Spectruh"],
+    "verifier": "WatchPiggy",
+    "verification": "https://www.youtube.com/watch?v=EOgpwScSm0k",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "lolspye",
+            "link": "https://www.youtube.com/watch?v=EOgpwScSm0k",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}
