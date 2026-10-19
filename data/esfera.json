@@ -14,11 +14,11 @@
             "percent": 100,
             "hz": 360
         },
-      {
-        "user": "Jarmusz",
-        "link": "https://youtu.be/VVfAS6aKojo?si=Iuumx_i6sYRrCIN9",
-        "percent": 100,
-        "hz": 120
+        {
+            "user": "Jarmusz",
+            "link": "https://youtu.be/VVfAS6aKojo?si=Iuumx_i6sYRrCIN9",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }
