@@ -1,0 +1,24 @@
+{
+    "id": 99692910,
+    "name": "Moving Forward",
+    "author": "crohn44",
+    "creators": ["crohn44"],
+    "verifier": "Leslie",
+    "verification": "https://www.youtube.com/watch?v=xUFYgRzKGao",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "KubeczekTV",
+            "link": "https://www.youtube.com/watch?v=xUFYgRzKGao",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "OreSpawnMaster3",
+            "link": "https://www.youtube.com/watch?v=3vR8f1Xf6R0",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
