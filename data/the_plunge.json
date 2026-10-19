@@ -52,21 +52,27 @@
         },
         {
             "user": "lisyteam1230",
-            "link": "https://www.youtube.com/watch?v=XZR-1Qz59dg",
-            "percent": 83,
+            "link": "https://www.youtube.com/watch?v=AgQUvNkVjGk",
+            "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Jarmusz",
+            "link": "https://www.youtube.com/watch?v=IMeI8_CE5X0",
+            "percent": 100,
+            "hz": 720
+        },
+        {
+            "user": "Oveeer",
+            "link": "https://www.youtube.com/watch?v=fG2uSgsenyA",
+            "percent": 100,
+            "hz": 720
         },
         {
             "user": "dovv1n",
             "link": "https://www.youtube.com/watch?v=mHY3wfKIIBo",
             "percent": 77,
             "hz": 240
-        },
-        {
-            "user": "Jarmusz",
-            "link": "https://www.youtube.com/watch?v=1aA9cz346R4",
-            "percent": 73,
-            "hz": 1800
         },
         {
             "user": "Hasik",
