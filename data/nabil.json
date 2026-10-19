@@ -1,0 +1,24 @@
+{
+    "id": 110965084,
+    "name": "Nabil Let Go",
+    "author": "nab",
+    "creators": ["Artimeowss","Awedsy","Nabu","CelestialCat","Zeba","gaB","vxvian","Limit2","Kacurro","Moustache","SundayGMD","ApeqX","sebestein","YouknowwhoGD","silver","moonlightmari","solarion","nab","Jakalope"],
+    "verifier": "autumn",
+    "verification": "https://www.youtube.com/watch?v=mGSCfNwhpkg",
+    "percentToQualify": 100,
+    "password": "Free to copy",
+    "records": [
+        {
+            "user": "LanLiangator",
+            "link": "https://www.youtube.com/watch?v=mGSCfNwhpkg",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "kasia",
+            "link": "https://www.youtube.com/watch?v=e1WGw48E3l0",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
