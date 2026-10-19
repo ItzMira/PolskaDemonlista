@@ -13,6 +13,12 @@
             "link": "https://www.youtube.com/watch?v=OzS9KEj9K_8",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Lukrasz",
+            "link": "https://www.youtube.com/watch?v=na_KbDMbjOM",
+            "percent": 100,
+            "hz": 480
         }
     ]
 }
