@@ -27,9 +27,21 @@
             "hz": 120
         },
         {
+            "user": "Bartolini3",
+            "link": "https://www.youtube.com/watch?v=MUaxeDOKbNc",
+            "percent": 100,
+            "hz": 480
+        },
+        {
             "user": "KubeczekTV",
-            "link": "https://www.youtube.com/watch?v=U9v6bG0qVUA",
-            "percent": 86,
+            "link": "https://www.youtube.com/watch?v=CgLGBZ-6x7E",
+            "percent": 100,
+            "hz": 480
+        },
+        {
+            "user": "Catan09",
+            "link": "https://www.youtube.com/watch?v=5pTt6aj3NAU",
+            "percent": 100,
             "hz": 240
         },
         {
