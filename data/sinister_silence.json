@@ -14,11 +14,11 @@
             "percent": 100,
             "hz": 360
         },
-      {
-        "user": "ItzMira",
-        "link": "https://youtu.be/4BAn-4ie9Cc?si=H27_PwAXEDF9RQZy",
-        "percent": 100,
-        "hz": 240
+        {
+            "user": "ItzMira",
+            "link": "https://youtu.be/4BAn-4ie9Cc?si=H27_PwAXEDF9RQZy",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
