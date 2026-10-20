@@ -1,0 +1,30 @@
+{
+    "id": 119829177,
+    "name": "NYUTOPIA",
+    "author": "Tornabro",
+    "creators": ["Tornabro"],
+    "verifier": "meanmemo",
+    "verification": "",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "kasia",
+            "link": "https://www.youtube.com/watch?v=rwzR1_33f-w",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "narpify",
+            "link": "https://www.youtube.com/watch?v=4U-cjbMWQ8Q",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "luno",
+            "link": "https://www.youtube.com/watch?v=xUuLOqjYiyc",
+            "percent": 100,
+            "hz": 480
+        }
+    ]
+}
