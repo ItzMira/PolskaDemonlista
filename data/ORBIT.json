@@ -1,0 +1,18 @@
+{
+    "id": 133175713,
+    "name": "ORBIT",
+    "author": "MindCap",
+    "creators": ["Knobbelboy","Pennutoh","Helpegasus","MindCap","Djoxy","TH04","Voltex","HugoLa","Deadlox","Wespdx","Don","Kekchungle44","Knots","Epxa","melsGD","Pegasusz","Classic10","Zephlin","SmitN","iKrazo","Whippie37","ZrKiphal","Empsea","HDanke","TyphoonThunder","Goober_194","Apunch","AudieoVisual"],
+    "verifier": "Zoink",
+    "verification": "https://www.youtube.com/watch?v=0QYibxUS3rA",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "dovv1n",
+            "link": "https://www.youtube.com/watch?v=0QYibxUS3rA",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
