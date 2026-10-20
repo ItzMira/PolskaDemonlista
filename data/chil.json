@@ -1,0 +1,36 @@
+{
+    "id": 114281093,
+    "name": "CHIL",
+    "author": "MrCoco",
+    "creators": ["MrCoco"],
+    "verifier": "MrCoco",
+    "verification": "https://www.youtube.com/watch?v=qbJ-uS4DWnE",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "kropka",
+            "link": "https://www.youtube.com/watch?v=qbJ-uS4DWnE",
+            "percent": 100,
+            "hz": 720
+        },
+        {
+            "user": "blobik",
+            "link": "https://www.youtube.com/watch?v=WXCuG5Y8hxk",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "fxpusphire",
+            "link": "https://www.youtube.com/watch?v=iVOEn-9EKmY",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "an4rchh",
+            "link": "https://www.youtube.com/watch?v=po3KmLdMhuE",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
