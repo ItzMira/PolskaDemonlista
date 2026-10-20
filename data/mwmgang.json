@@ -1,0 +1,18 @@
+{
+    "id": 93281587,
+    "name": "me when machine gang (solo)",
+    "author": "akunakun",
+    "creators": ["akunakun"],
+    "verifier": "Motor8",
+    "verification": "https://www.youtube.com/watch?v=lKpsPm3HtJo",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "LanLiangator",
+            "link": "https://www.youtube.com/watch?v=lKpsPm3HtJo",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
