@@ -1,0 +1,24 @@
+{
+    "id": 107805281,
+    "name": "Menace",
+    "author": "Arraegen",
+    "creators": ["Arraegen"],
+    "verifier": "Whizkid05",
+    "verification": "https://www.youtube.com/watch?v=Ke4JWGWClaQ",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Antorias",
+            "link": "https://www.youtube.com/watch?v=Ke4JWGWClaQ",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "kakol",
+            "link": "https://www.youtube.com/watch?v=f4oMd8R4YbQ",
+            "percent": 100,
+            "hz": 720
+        }
+    ]
+}
