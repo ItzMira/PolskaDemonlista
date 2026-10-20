@@ -1,0 +1,18 @@
+{
+    "id": ,
+    "name": "Ultra Paracosm",
+    "author": "declanlc",
+    "creators": ["Renn241","declanlc"],
+    "verifier": "Wity",
+    "verification": "https://www.youtube.com/watch?v=bCG6pUFx-Gs&t=5s",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "lunikay",
+            "link": "https://www.youtube.com/watch?v=bCG6pUFx-Gs&t=5s",
+            "percent": 100,
+            "hz": 1440
+        }
+    ]
+}
