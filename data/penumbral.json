@@ -1,0 +1,18 @@
+{
+    "id": 134942736,
+    "name": "Penumbral",
+    "author": "CherryTeam",
+    "creators": ["Hexy","_ego11","nxhtrise"],
+    "verifier": "w3rty",
+    "verification": "https://www.youtube.com/watch?v=5h-auovT1vA",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "dovv1n",
+            "link": "https://www.youtube.com/watch?v=5h-auovT1vA",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
