@@ -1,0 +1,18 @@
+{
+    "id": 89496627,
+    "name": "Avernus",
+    "author": "PockeWindfish",
+    "creators": ["SyQual","Zenn","Zipixbox","TriplasH","RealVet","Deadlox","El3ctr0","Kyhros","Nidro","GD Iris","loolycat","woom","deactive"],
+    "verifier": "Zoink",
+    "verification": "https://www.youtube.com/watch?v=Lhfu_qaiIp0",
+    "percentToQualify": 100,
+    "password": "030607",
+    "records": [
+        {
+            "user": "kropka",
+            "link": "https://www.youtube.com/watch?v=Lhfu_qaiIp0",
+            "percent": 100,
+            "hz": 720
+        }
+    ]
+}
