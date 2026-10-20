@@ -1,0 +1,18 @@
+{
+    "id": 92583725,
+    "name": "Pandemonium (Cersia)",
+    "author": "Cersia",
+    "creators": ["robotchief","Cersia","zmx","Nezopi","Awedsy","Magmeta","KydeR","burgz","Xeinth","WackoBazacko","Peton","Aubreygoose","j2ko","Great","rulls","aroo","declanlc"],
+    "verifier": "TGM05",
+    "verification": "https://www.youtube.com/watch?v=Rw5CS8l6Dew",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "kasia",
+            "link": "https://www.youtube.com/watch?v=Rw5CS8l6Dew",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
