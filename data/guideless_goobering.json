@@ -1,0 +1,18 @@
+{
+    "id": 105625871,
+    "name": "Guideless Goobering",
+    "author": "Enfur",
+    "creators": ["Enfur","Xuser","akunakun"],
+    "verifier": "Zytrux",
+    "verification": "https://www.youtube.com/watch?v=NEGmZQO6SsA",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "LanLiangator",
+            "link": "https://www.youtube.com/watch?v=NEGmZQO6SsA",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
