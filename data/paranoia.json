@@ -1,0 +1,18 @@
+{
+    "id": 113364415,
+    "name": "paranoia",
+    "author": "Amplitron",
+    "creators": ["Amplitron"],
+    "verifier": "Amplitron",
+    "verification": "https://www.youtube.com/watch?v=ySlIYdlHCjg",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Ares",
+            "link": "https://www.youtube.com/watch?v=ySlIYdlHCjg",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
