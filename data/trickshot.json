@@ -1,0 +1,54 @@
+{
+    "id": ,
+    "name": "Trickshot",
+    "author": "",
+    "creators": [],
+    "verifier": "",
+    "verification": "https://www.youtube.com/watch?v=pOiNPRCxuO4",
+    "percentToQualify": 100,
+    "password": "",
+    "records": [
+        {
+            "user": "Mone",
+            "link": "https://www.youtube.com/watch?v=pOiNPRCxuO4",
+            "percent": 100,
+            "hz": 480
+        },
+        {
+            "user": "an4rchh",
+            "link": "https://www.youtube.com/watch?v=VHYd9LlBr9s",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Ares",
+            "link": "https://www.youtube.com/watch?v=HsABMivJYDk",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Kafpu",
+            "link": "https://www.youtube.com/watch?v=x5gLfF0s9hk",
+            "percent": 100,
+            "hz": 720
+        },
+        {
+            "user": "rBedziu",
+            "link": "https://www.youtube.com/watch?v=jGNJRbbR4Sg",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Stryg",
+            "link": "https://www.youtube.com/watch?v=GWxBZhV_dKA",
+            "percent": 100,
+            "hz": 480
+        },
+        {
+            "user": "ItzMira",
+            "link": "https://www.youtube.com/watch?v=v_4xA7DQiBI",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
