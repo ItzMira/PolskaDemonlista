@@ -1,0 +1,18 @@
+{
+    "id": 49072489,
+    "name": "Through The Gates",
+    "author": "TeamTheDashers",
+    "creators": ["azuri","Tan1c","Maestro Illuminati","Exen","Kentakian","KAWOC","Alex200371"],
+    "verifier": "Zoink",
+    "verification": "https://www.youtube.com/watch?v=miLC_yoo_Ts",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "fxpusphire",
+            "link": "https://www.youtube.com/watch?v=miLC_yoo_Ts",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
