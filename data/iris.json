@@ -1,0 +1,54 @@
+{
+    "id": 123853954,
+    "name": "IRIS",
+    "author": "bnuuy",
+    "creators": ["Skyavoxii","rnexel","Kaza"],
+    "verifier": "bnuuy",
+    "verification": "https://www.youtube.com/watch?v=WiFwAU8pgr4",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "bnuuy",
+            "link": "https://www.youtube.com/watch?v=WiFwAU8pgr4",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Mone",
+            "link": "https://www.youtube.com/watch?v=giT8EOGU7yw",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "ItzMimo",
+            "link": "https://www.youtube.com/watch?v=MfBqxk_Yg3A",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Ares",
+            "link": "https://www.youtube.com/watch?v=7it9gf9aD58",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "fufam",
+            "link": "https://www.youtube.com/watch?v=JlhuuJ2hfb8",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Lukrasz",
+            "link": "https://www.youtube.com/watch?v=6PIEaqYNsNg",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "kasia",
+            "link": "https://www.youtube.com/watch?v=Rpp63l8whqg",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
