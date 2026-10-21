@@ -1,0 +1,18 @@
+{
+    "id": 132751236,
+    "name": "SPIRIT OVERCLOCK",
+    "author": "TheRealXFuture",
+    "creators": ["TheRealXFuture"],
+    "verifier": "Riley",
+    "verification": "https://www.youtube.com/watch?v=tfWZ450HFKw",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Jarmusz",
+            "link": "https://www.youtube.com/watch?v=tfWZ450HFKw",
+            "percent": 100,
+            "hz": 330
+        }
+    ]
+}
