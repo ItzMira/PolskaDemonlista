@@ -1,0 +1,18 @@
+{
+    "id": 113045735,
+    "name": "The Salt Factory",
+    "author": "Nickname",
+    "creators": ["Nickname","Inex","Yakov47","PEs11","E9_KH","wonsay","lintery","Relix","Acvan","EziK","Soywues","Sleepin"],
+    "verifier": "Nickname",
+    "verification": "https://www.youtube.com/watch?v=ehwVQFTsJSM",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Lanx",
+            "link": "https://www.youtube.com/watch?v=ehwVQFTsJSM",
+            "percent": 100,
+            "hz": 720
+        }
+    ]
+}
