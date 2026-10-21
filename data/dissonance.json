@@ -1,0 +1,48 @@
+{
+    "id": 108141323,
+    "name": "DISSONANCE",
+    "author": "ivyteal",
+    "creators": ["ivyteal"],
+    "verifier": "xSquidKnight",
+    "verification": "https://www.youtube.com/watch?v=EmlAJa1sLHo",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "MTX",
+            "link": "https://www.youtube.com/watch?v=EmlAJa1sLHo",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Jarmusz",
+            "link": "https://www.youtube.com/watch?v=qVXpAfLYEN8",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "ywe",
+            "link": "https://www.youtube.com/watch?v=EbOQTYPWJYU",
+            "percent": 100,
+            "hz": 288
+        },
+        {
+            "user": "Kyuumiko",
+            "link": "https://www.youtube.com/watch?v=-55CW5smWoY",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "ItzMira",
+            "link": "https://www.youtube.com/watch?v=zLhKh6LDlHw",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "lunikay",
+            "link": "https://www.youtube.com/watch?v=BK8tGPk_mS8",
+            "percent": 100,
+            "hz": 480
+        }
+    ]
+}
