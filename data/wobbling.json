@@ -1,0 +1,18 @@
+{
+    "id": 87130877,
+    "name": "WOBBLING MACHINE (solo)",
+    "author": "Smarted",
+    "creators": ["Smarted"],
+    "verifier": "conski",
+    "verification": "https://www.youtube.com/watch?v=waA9Bf5nrWs",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "LanLiangator",
+            "link": "https://www.youtube.com/watch?v=waA9Bf5nrWs",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
