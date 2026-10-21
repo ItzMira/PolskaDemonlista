@@ -1,0 +1,36 @@
+{
+    "id": 122196131,
+    "name": "ROCKBOTTOM",
+    "author": "bimms",
+    "creators": ["bimms"],
+    "verifier": "ZaZa GD",
+    "verification": "https://www.youtube.com/watch?v=aCwr23UGCr0",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "lunikay",
+            "link": "https://www.youtube.com/watch?v=aCwr23UGCr0",
+            "percent": 100,
+            "hz": 480
+        },
+        {
+            "user": "Hexuraa",
+            "link": "https://www.youtube.com/watch?v=4mmI_aCCBtY",
+            "percent": 100,
+            "hz": 480
+        },
+        {
+            "user": "Nercioo",
+            "link": "https://www.youtube.com/watch?v=U8X5fn9GDxc",
+            "percent": 100,
+            "hz": 720
+        }, 
+        {
+            "user": "cultist",
+            "link": "https://www.youtube.com/watch?v=u15ZSoVi4Ao",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
