@@ -1,0 +1,18 @@
+{
+    "id": 115077305,
+    "name": "NOMAD",
+    "author": "reesevt",
+    "creators": ["danielsbadkarma","reesevt"],
+    "verifier": "Laniakea",
+    "verification": "https://www.youtube.com/watch?v=9JOu5HMppis",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "fxpusphire",
+            "link": "https://www.youtube.com/watch?v=9JOu5HMppis",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
