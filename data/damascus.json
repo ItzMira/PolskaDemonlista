@@ -1,0 +1,24 @@
+{
+    "id": 93339534,
+    "name": "Damascus",
+    "author": "Dzeser",
+    "creators": ["Jo2000","Gusearth","weoweoteo","Kruso","LIEB","Fury0313","Nicki1202","CirtraX","TheJosiahTurner","Cookieszs","Logik","Megantwoo","Jeyzor","PhantomX","Toxic","IronDofus435","Thomartin","Wod","Dasher3000","TheTrueEclipse","JaredKAwaii","Norcda","Dzeser","Tygrysek","PG1004","Blitzmister","Zimnyte","Mazl","Rob Buck","Platnuu","fin","Ninetales","vArctic99","Obsidium","Allan","Surv","Dehznik","AlrexX","Kazia","josi","Ozix","ILRELL","FozaeKitty","KFAOpitar","Wolfstar","Megaman9","Brittank88","VERSU5","Loogiah","Adiale","Nahuel2998","ErisethSP","AirForce","Findexi","TDChris02","SuperSNSD","Disp","Koolboom","Chromatik","Yozyo","Oskux","Flaksy","Metsho","Dorami","iBlade","LassiBoy","WhitePythor","Skele","Smokes"],
+    "verifier": "Timo",
+    "verification": "https://www.youtube.com/watch?v=8aLUdnE3owA",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "kakol",
+            "link": "https://www.youtube.com/watch?v=8aLUdnE3owA",
+            "percent": 100,
+            "hz": 720
+        },
+        {
+            "user": "VerdantLands",
+            "link": "https://www.youtube.com/watch?v=oYou3Wj_mxA",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
