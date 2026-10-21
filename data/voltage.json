@@ -1,0 +1,18 @@
+{
+    "id": 131599104,
+    "name": "Voltage",
+    "author": "Purgatory",
+    "creators": ["Phantom7Ks","Lagnugg","Vendas","budapest","Sysafk","Millan","Boshet","heptamone","Xenith","Xatz","Kgnstn","zof","rubrum","Silsa","Acomet","Lapatatatom","Choms"],
+    "verifier": "Maybee",
+    "verification": "https://www.youtube.com/watch?v=LmeAYmTE54s",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "MIxselPL",
+            "link": "https://www.youtube.com/watch?v=LmeAYmTE54s",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
